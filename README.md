@@ -54,32 +54,41 @@ Sistema desarrollado para la administración de una liga deportiva.
 **🎯 Resultado:**
 Proyecto aplicado en un entorno real (Club León Saltillo).
 
+[Proyecto de futbol](https://github.com/Shifu17/Liga-de-futbol)
+
 ---
 
-### 📊 Análisis de datos de películas
-Análisis de un dataset de 100,000 registros utilizando R.
+### 📊 Pagina web del tecnologico de saltillo
+Diferentes descripciones de areas o laboratorios del tec de saltillo.
 
 **🔧 Funcionalidades:**
-- Análisis por edad
-- Evaluación de calificaciones
-- Visualización de datos
+- Conocer las areas comunes del tec de saltillo
+- Conocer mas a detalle su historia y sus laboratorios
+- Diferentes imagenes del tec 
 
 **🛠️ Tecnologías:**
-- R
-
+- html
+- css
+**🎯 Resultado:**
+ [Proyecto pagina web](https://github.com/Shifu17/Pagina-web-its_electronica)
 ---
 
-### 🛢️ Base de datos MySQL
-Diseño y gestión de base de datos.
+### 🛢️ Reporte de baches
+Sistema de gestion de reporte de baches.
 
 **🔧 Funcionalidades:**
-- Creación de tablas
-- Consultas SQL
-- Manejo de datos
+- Ingresar calles, colonias, cuadrillas y medios de comunicacion
+- Tener el registro de quien hizo el reporte por tales calles y colonia
+- Una mejor organizacion de los reportes y atencion
 
 **🛠️ Tecnologías:**
 - MySQL
+- MySQL SERVER
+- Visual Studio Code
+- C#
 
+**🎯 Resultado:**
+ [Proyecto de reporte de baches](https://github.com/Shifu17/Reporte-de-baches)
 ---
 
 ### 🌐 Configuración de redes (Cisco)
@@ -93,13 +102,6 @@ Simulación y configuración de redes seguras.
 
 **🛠️ Tecnologías:**
 - Cisco Packet Tracer
-
----
-
-## 💼 Experiencia
-
-### 
-Participación en el desarrollo del sistema de gestión para el Club León Saltillo.
 
 ---
 
