@@ -51,9 +51,6 @@ Sistema desarrollado para la administración de una liga deportiva.
 - Registro de resultados
 - Generación de tabla de posiciones
 
-**🛠️ Tecnologías:**
-- (Aquí puedes agregar las que usaste)
-
 **🎯 Resultado:**
 Proyecto aplicado en un entorno real (Club León Saltillo).
 
@@ -123,5 +120,5 @@ Tecnológico de Saltillo
 ## 📫 Contacto
 
 - 📧 Email: (Saul.lopez.lomas@gmail.com)
-- 💼 LinkedIn: (si tienes, agrégalo)
+- 💼 LinkedIn: [(si tienes, agrégalo)](https://www.linkedin.com/in/saul-lopez-lomas/)
 - 🐙 GitHub: https://github.com/Shifu17
