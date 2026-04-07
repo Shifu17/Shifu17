@@ -1,6 +1,6 @@
 # 👋 Hola, soy Saul Emilio López Lomas
 
-🎓 Ingeniero en Sistemas del Instituto Tecnológico de Saltillo  
+🎓 Ingeniero en Sistemas egresado del Instituto Tecnológico de Saltillo  
 💻 Enfocado en desarrollo de software  
 📍 Saltillo, Coahuila, México  
 
@@ -8,8 +8,8 @@
 
 ## 🚀 Sobre mí
 
-Soy un ingeniero en sistemas apasionado por el desarrollo de software, con experiencia en bases de datos, análisis de datos y configuración de redes.  
-Me interesa formar parte de un equipo donde pueda desarrollar soluciones tecnológicas y seguir creciendo profesionalmente.
+Soy ingeniero en sistemas con enfoque en desarrollo de software, con experiencia en bases de datos, desarrollo web y configuración de redes.  
+Me interesa formar parte de un equipo donde pueda aportar soluciones tecnológicas, mejorar mis habilidades y crecer profesionalmente.
 
 ---
 
@@ -20,17 +20,18 @@ Me interesa formar parte de un equipo donde pueda desarrollar soluciones tecnol�
 - JavaScript
 - SQL
 - Java
-- c#
+- C#
 
 ### 🗄️ Bases de datos
 - MySQL
-- MySQL server
+- SQL Server
 
 ### ⚙️ Herramientas
 - Git
 - Linux (Oracle Linux)
 - Hadoop
-- MacOs
+- macOS
+- Visual Studio Code
 
 ### 🌐 Redes
 - Configuración de VPN (GRE, IPsec)
@@ -45,70 +46,78 @@ Me interesa formar parte de un equipo donde pueda desarrollar soluciones tecnol�
 Sistema desarrollado para la administración de una liga deportiva.
 
 **🔧 Funcionalidades:**
-- Registro de equipos
-- Gestión de pagos (inscripción y arbitraje)
-- Creación de roles de juego
-- Registro de resultados
-- Generación de tabla de posiciones
+- Registro de equipos  
+- Gestión de pagos (inscripción y arbitraje)  
+- Creación de roles de juego  
+- Registro de resultados  
+- Generación de tabla de posiciones  
 
-**🎯 Resultado:**
+**🎯 Resultado:**  
 Proyecto aplicado en un entorno real (Club León Saltillo).
 
-[Proyecto de futbol](https://github.com/Shifu17/Liga-de-futbol)
+🔗 [Ver proyecto](https://github.com/Shifu17/Liga-de-futbol)
 
 ---
 
-### 📊 Pagina web del tecnologico de saltillo
-Diferentes descripciones de areas o laboratorios del tec de saltillo.
+### 🌐 Página Web del Tecnológico de Saltillo
+Sitio web informativo sobre las áreas, historia y laboratorios del Instituto Tecnológico de Saltillo.
 
 **🔧 Funcionalidades:**
-- Conocer las areas comunes del tec de saltillo
-- Conocer mas a detalle su historia y sus laboratorios
-- Diferentes imagenes del tec 
+- Visualización de áreas comunes  
+- Información detallada de laboratorios  
+- Sección histórica de la institución  
+- Galería de imágenes  
 
 **🛠️ Tecnologías:**
-- html
-- css
-**🎯 Resultado:**
- [Proyecto pagina web](https://github.com/Shifu17/Pagina-web-its_electronica)
+- HTML  
+- CSS  
+
+**🎯 Resultado:**  
+Proyecto enfocado en el desarrollo web básico y estructuración de contenido.
+
+🔗 [Ver proyecto](https://github.com/Shifu17/Pagina-web-its_electronica)
+
 ---
 
-### 🛢️ Reporte de baches
-Sistema de gestion de reporte de baches.
+### 🛣️ Sistema de Reporte de Baches
+Sistema de gestión para el registro y seguimiento de reportes urbanos.
 
 **🔧 Funcionalidades:**
-- Ingresar calles, colonias, cuadrillas y medios de comunicacion
-- Tener el registro de quien hizo el reporte por tales calles y colonia
-- Una mejor organizacion de los reportes y atencion
+- Registro de calles, colonias y cuadrillas  
+- Control de reportes realizados  
+- Identificación del origen del reporte  
+- Organización y seguimiento de incidencias  
 
 **🛠️ Tecnologías:**
-- MySQL
-- MySQL SERVER
-- Visual Studio Code
-- C#
+- C#  
+- SQL Server  
+- Visual Studio Code  
 
-**🎯 Resultado:**
- [Proyecto de reporte de baches](https://github.com/Shifu17/Reporte-de-baches)
+**🎯 Resultado:**  
+Proyecto enfocado en la gestión de datos y solución de problemas urbanos.
+
+🔗 [Ver proyecto](https://github.com/Shifu17/Reporte-de-baches)
+
 ---
 
 ### 🌐 Configuración de redes (Cisco)
 Simulación y configuración de redes seguras.
 
 **🔧 Funcionalidades:**
-- VPN GRE
-- VPN IPsec
-- Enrutamiento OSPF
-- Seguridad con ASA
+- VPN GRE  
+- VPN IPsec  
+- Enrutamiento OSPF  
+- Implementación de seguridad con ASA  
 
 **🛠️ Tecnologías:**
-- Cisco Packet Tracer
+- Cisco Packet Tracer  
 
 ---
 
 ## 🎓 Educación
 
-Ingeniería en Sistemas  
-Tecnológico de Saltillo  
+**Ingeniería en Sistemas**  
+Instituto Tecnológico de Saltillo  
 
 ---
 
@@ -121,6 +130,6 @@ Tecnológico de Saltillo
 
 ## 📫 Contacto
 
-- 📧 Email: (Saul.lopez.lomas@gmail.com)
-- 💼 LinkedIn:(https://www.linkedin.com/in/saul-lopez-lomas/)
-- 🐙 GitHub: https://github.com/Shifu17
+- 📧 Email: Saul.lopez.lomas@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/saul-lopez-lomas/  
+- 🐙 GitHub: https://github.com/Shifu17  
