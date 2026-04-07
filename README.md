@@ -120,5 +120,5 @@ Tecnológico de Saltillo
 ## 📫 Contacto
 
 - 📧 Email: (Saul.lopez.lomas@gmail.com)
-- 💼 LinkedIn: [(si tienes, agrégalo)](https://www.linkedin.com/in/saul-lopez-lomas/)
+- 💼 LinkedIn:(https://www.linkedin.com/in/saul-lopez-lomas/)
 - 🐙 GitHub: https://github.com/Shifu17
